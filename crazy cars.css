@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: Eater;
+    background-color: rgb(0, 0, 0);
+}
+iframe { background-color: rgb(0, 0, 0);
+}
+body { background-color: black;
+}
+h2 { color: rgb(255, 255, 255);
+    font-family: Nabla regular;
+}
+img { height: 800px;
+    width: 800px;
+}
+p { color: rgb(255, 255, 255);
+  font-family: parisienne;
+}
+a { font-size: xx-large;
+    color: rgb(42, 138, 5);
+    text-decoration: solid;
+    font-family: Big Shoulders Inline Text ExtraBold;
+    float: right;
+}
